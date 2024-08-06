@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1j9jqmz7rdx@d!^6di6k1oah^rz@#t%oepogu-2q_hf5b79+%y
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-# CSRF_TRUSTED_ORIGINS = ['https://django-final-exam-backend-part.onrender.com','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://libarary-management-system.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
